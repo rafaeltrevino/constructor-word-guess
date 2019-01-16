@@ -1,0 +1,28 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "A word-guess game built with Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeltrevino/constructor-word-guess.git"
+  },
+  "keywords": [
+    "word",
+    "guess",
+    "constructor"
+  ],
+  "author": "Rafael Treviño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeltrevino/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/rafaeltrevino/constructor-word-guess#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "inquirer": "^6.2.1"
+  }
+}
